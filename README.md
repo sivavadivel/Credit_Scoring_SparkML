@@ -2,6 +2,8 @@
 
 ## Project Summary
 
+Forked from https://github.com/pdefusco/Credit_Scoring_SparkML
+
 This tutorial demonstrates how you can develop a Credit Scoring Model with PySpark. The model is used to score customers at scale via Batch Scoring and REST API. 
 
 The tutorial is divided into the following parts:
